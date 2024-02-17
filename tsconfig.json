@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
     "rootDir": "./src",
     "outDir": "./dist",
     "allowJs": false,
